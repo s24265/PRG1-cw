@@ -4,6 +4,7 @@ int main(){
 	int a;
 	std::cout << "Podaj pierwszą liczbę: ";
 	std::cin >> a;
+	
 	int b;
 	std::cout << "Podaj drugą liczbę: ";
 	std::cin >> b;
