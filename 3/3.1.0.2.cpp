@@ -1,7 +1,5 @@
 #include <iostream>
 
-auto iota(int a[], int n, int start) -> void;
-
 auto main(int argc, char* argv[]) -> int{
 	int a[1234];
 	int n = std::stoi(argv[1]);
