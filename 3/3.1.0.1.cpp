@@ -1,7 +1,5 @@
 #include <iostream>
 
-auto init(int a[], int n) -> void;
-
 auto main(int argc, char* argv[]) -> int{
 	int a[1234];
 	int n = std::stoi(argv[1]);
