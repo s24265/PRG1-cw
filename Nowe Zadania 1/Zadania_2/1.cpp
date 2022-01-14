@@ -12,5 +12,5 @@ auto average_of(std::vector<double> wektor) -> float{
 	return sredniaa;
 }
 auto main() -> int{
-	auto lrzeczywiste = std::vector<double>{1, 2, 3, 4, 5, }
+	auto lrzeczywiste = std::vector<double>{1, 2, 3, 4, 5, } //nie skonczone
 }
